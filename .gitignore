@@ -1,6 +1,7 @@
 *.dcm 
 *.zip 
 
+Dataset/CT scans/
 
 
 # Byte-compiled / optimized / DLL files
